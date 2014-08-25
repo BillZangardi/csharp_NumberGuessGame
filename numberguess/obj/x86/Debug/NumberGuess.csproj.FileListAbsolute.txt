@@ -1,0 +1,8 @@
+C:\Users\Billyz0914\Dropbox\cSharp\NumberGuess\NumberGuess\obj\x86\Debug\NumberGuess.GameBoard.resources
+C:\Users\Billyz0914\Dropbox\cSharp\NumberGuess\NumberGuess\obj\x86\Debug\NumberGuess.Properties.Resources.resources
+C:\Users\Billyz0914\Dropbox\cSharp\NumberGuess\NumberGuess\obj\x86\Debug\NumberGuess.csproj.GenerateResource.Cache
+C:\Users\Billyz0914\Dropbox\cSharp\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Users\Billyz0914\Dropbox\cSharp\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Users\Billyz0914\Dropbox\cSharp\NumberGuess\NumberGuess\obj\x86\Debug\NumberGuess.exe
+C:\Users\Billyz0914\Dropbox\cSharp\NumberGuess\NumberGuess\obj\x86\Debug\NumberGuess.pdb
+C:\Users\Billyz0914\Dropbox\cSharp\NumberGuess\NumberGuess\obj\x86\Debug\NumberGuess.csprojResolveAssemblyReference.cache
